@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Measurement Converter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About App</string>
+    <string name="conlist">Conversion list</string>
+    <string name="title_activity_units">Conversion Units</string>
+    <string name="sample">implemented soon</string>
+    <string name="message">Enter in either of the field</string>
+    <string name="title_activity_mysetting_activity">About App</string>
+    <string name="about">\n\t<b>Measurement Converter</b>\t\nThe best unit converter app with a simple UI.\n
+
+\nDiscover the converter list\n with 7 unit Conversations.
+
+\nThis app is the simple way to \nquickly convert between a variety of units.\n\n
+
+This application was made as a part of \n<u>Google student Ambassador program</u>.\n\n
+\nThanks to <i>Mr. Tejas Koundinya and Mr. Pavan Kumar</i> \n(The Google Student Ambassadors K.S.I.T Bangalore)\nfor giving this opportunity and for their help and support. \n
+
+</string>
+</resources>
