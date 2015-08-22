@@ -11,7 +11,7 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:minHeight="?android:attr/listPreferredItemHeight"
     android:gravity="center_horizontal"
-    android:textColor="#8ffff9fb"
+    android:textColor="#fc0c0c0c"
     android:textAllCaps="true"
     android:text="@string/hello_world"
     android:textStyle="bold|normal"

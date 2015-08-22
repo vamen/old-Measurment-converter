@@ -9,7 +9,7 @@
     android:layout_height="30dp"
     android:textStyle="bold"
     android:layout_gravity="center"
-    android:textColor="#ff69ff72"
+    android:textColor="#d9414141"
 
 
     android:id="@+id/childtext"></TextView>

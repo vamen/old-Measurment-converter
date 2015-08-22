@@ -28,7 +28,7 @@
         android:layout_marginTop="48dp" />
 
     <Button
-        android:background="#fc26a303"
+        android:background="#d9414141"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -62,7 +62,7 @@
         android:imeOptions="actionDone"/>
 
     <Button
-        android:background="#fc26a303"
+        android:background="#d9414141"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="  go  "
